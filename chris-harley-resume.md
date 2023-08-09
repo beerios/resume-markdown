@@ -2,7 +2,7 @@
 
 chris@harleybrewing.com | 216-255-7179 | Minneapolis, MN | https://www.linkedin.com/in/chris-harley/
 
-Experienced **Engineering Manager** with strong technical background and a demonstrated history in leading cross-functional teams and driving product development multiple industries. Skilled in Agile Methodologies, Strategic Planning, and Software Architecture Design.
+Experienced **Engineering Manager** with strong technical background and a demonstrated history in leading cross-functional teams and driving product development in multiple industries. Skilled in Agile Methodologies, Strategic Planning, and Software Architecture Design.
 
 ## CAREER SUMMARY
 - Managed and mentored cross-functional scrum teams with up to 20 direct reports across diverse roles in the development of advanced visualization services for medical imaging.
