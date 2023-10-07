@@ -8,7 +8,7 @@ Experienced **Engineering Manager** with strong technical background and a demon
 - Managed and mentored cross-functional scrum teams with up to 20 direct reports across diverse roles in the development of advanced visualization services for medical imaging.
 - Oversaw a $1.2M offshore QA contract, setting achievement targets and ensuring clear communication. Strategically transitioned the work back in-house due to identified performance issues.
 - Initiated the redesign of an audit logging service, achieving a 90% reduction in annual maintenance time, saving over 8 person-months, and accelerating feature releases by eliminating inter-service dependencies.
-- Designed and developed a cloud-based observability platform with Elastic Cloud, enhancing monitoring for global on-prem applications and enabling proactive service and support engagement.
+- Developed a cloud-based observability platform using Elastic Cloud, enhancing monitoring for global on-prem applications, enabling proactive service and engagement.
 - Supported the company through an organizational split by transitioning key team members to new roles, ensuring the completion of ongoing projects, and minimizing disruption to operations.
 
 ## PROFESSIONAL EXPERIENCE
@@ -18,7 +18,7 @@ Experienced **Engineering Manager** with strong technical background and a demon
 
 - Successfully managed multiple scrum teams during a critical company split, supporting the transition from a profit-oriented business to a growth-oriented startup.
 - Provided expert guidance to the team in the development of REST API standards, steering them towards a low-maintenance approach to generating Open API Spec from Jersey and Spring code.
-- Redesigned an audit logging service by pinpointing maintenance and scalability issues. The implemented changes reduced annual maintenance time by over 90%, saved more than 8 person-months per year, and sped up feature release cycles by removing inter-service dependencies.
+- Redesigned an audit logging service, addressing maintenance and scalability issues. Reduced annual maintenance time by over 90%, saved more than 8 person-months per year, and sped up feature release cycles by removing inter-service dependencies.
 - Implemented team status dashboards to enhance communication and coordination with product management and executive leadership, improving overall visibility and alignment
 - Developed a comprehensive product development strategy to evolve our partner integration ecosystem. This allowed partners to easily interact with our products using RESTful APIs and Python client libraries.
 
@@ -30,7 +30,7 @@ Experienced **Engineering Manager** with strong technical background and a demon
 
 - Led the Solution Health team in the creation of an observability platform that monitored application health and usage for on-prem applications deployed at customer locations across the globe.
 - Conducted thorough research on available software, technologies, and deployment strategies. Based on the business's readiness, strategically selected Elastic Cloud SaaS as the application monitoring platform for Vital.
-- Established change control and developed version management software to treat configuration as code and deploy changes to Elasticsearch and Kibana via their RESTful APIs. Deployments of clusters are now reliable and repeatable.
+- Established change control and developed version management software to treat configuration as code and deploy changes to Elasticsearch and Kibana via their RESTful APIs. Ensured reliable and repeatable cluster deployments.
 
 *Team: Advanced Visualization* | *2017 - 2019*
 
@@ -68,7 +68,7 @@ Experienced **Engineering Manager** with strong technical background and a demon
 
 ## EDUCATION AND AWARDS
 
-- BS, Computer Science - Case Western Reserve University
+- BS, Computer Science - Case Western Reserve University, 2002
 - Distinguished Employer Award from the Ohio Cooperative Education Association
 - Dionysus Award for Outstanding Contribution to Theatre by a Non-Major
 - Eagle Scout Award 
