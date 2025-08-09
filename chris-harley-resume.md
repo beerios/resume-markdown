@@ -48,16 +48,24 @@ A results-driven Engineering Leader with a strong technical background and a pro
 **Canon Medical** (formerly Vital Images) | *2012 - 2014*
 
 - Architected and developed a high-performance RESTful web services application using Java and the Spring Framework, delivering a robust and scalable solution to meet complex business requirements.
+- Collaborated with an offsite team member on a mission-critical project to enhance the core product with DICOM STOW
+functionality. Provided expert guidance, conducted comprehensive code reviews, and integrated the solution, elevating the
+product’s capabilities.
 
 ### Senior Software Engineer
 **Medtronic** | *2009 - 2012*
 
-- Led a team of software engineers tasked with developing and maintaining a web application that gathers data from insulin pumps and glucose sensors to help patients and physicians make better therapy management decisions 
+- Led a team of software engineers tasked with developing and maintaining a web application that gathers data from insulin pumps and glucose sensors to help patients and physicians make better therapy management decisions.
+- Drove decision to combine several implementations of device reading software used by multiple related products into a single
+implementation; significantly reduced cost of product and software updates and increased software reuse in new products
+- Served as the Grant Sponsor on a research grant provided by Medtronic Diabetes to California State University, Northridge.
 
 ### Software Engineer
 **Codonics** | *2002 - 2009*
 
-- Implemented HL7 and DICOM services in Java for Medical Imaging Printers, CD publishers, and Image Archives. 
+- Managed project to expand capability, features and functionality to core Horizon imaging product, creating an industry elite 51-inch film imaging solution; boosted market share and added significant new revenue with 12-month ROI. 
+- Implemented HL7 and DICOM services in Java for Medical Imaging Printers, CD publishers, and Image Archives.
+- Served as Software Co-op Program Supervisor; promoted company at local college campuses, interviewed and selected software engineering students for hire, assigned and oversaw their projects
 
 ## EDUCATION AND AWARDS
 
