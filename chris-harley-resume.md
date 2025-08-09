@@ -1,30 +1,24 @@
 # Chris Harley
+**Engineering Leader** | Senior Engineering Manager
 
-chris@harleybrewing.com | 216-255-7179 | Minneapolis, MN | https://www.linkedin.com/in/chris-harley/
+chris@harleybrewing.com | 216-255-7179 | Saint Paul, MN | https://www.linkedin.com/in/chris-harley/
 
-**Engineering Manager** with over a decade of experience leading cross-functional teams and driving product development in the medical and enterprise software industries. Proven expertise in building high-performing teams, defining engineering strategy, and delivering scalable, cloud-based solutions.
-
-## CAREER SUMMARY
-- Directed a 2-year, $5MM contract project to develop a patient relationship management (PRM) application. This enhances patient engagement, streamlines patient communication, and reduces operational costs by replacing third-party integrations.
-- Led the development of advanced visualization services for medical imaging and a web application for medical device data, ensuring regulatory compliance.
-- Redesigned an audit logging service, resulting in a 90% reduction in annual maintenance time, saving over 8 person months per year, and accelerating feature releases by removing key inter-service dependencies.
-- Developed a cloud-based observability platform using Elastic Cloud, enhancing monitoring for global on-prem applications, enabling proactive service and engagement.
-- Developed a comprehensive product development strategy to evolve our partner integration ecosystem. This allowed partners to easily interact with our products using RESTful APIs and Python client libraries.
+A results-driven Engineering Leader with a strong technical background and a proven record of success in regulated environments. I directed a $5M contract project to develop a patient relationship management application and led a service redesign that resulted in a 90% reduction in maintenance time. My expertise lies in defining engineering strategy, building high-performing teams, and modernizing development practices to deliver scalable solutions that drive tangible business results.
 
 ## PROFESSIONAL EXPERIENCE
 
-### Senior Engineering Manager
-**Patterson Dental** | *2023 - Present*
+### Senior Software Engineering Manager
+**Patterson Dental** | *2023 - 2025*
 
-- Directed onshore and offshore contractors during the development of a new application that added patient relationship management (PRM) features to the existing cloud based dental software. This empowers patients to schedule appointments, streamlines patient communication, and reduces costs by replacing third-party integrations.
+- Directed a 2-year, $5MM contract to develop a new patient relationship management (PRM) application for a cloud-based dental platform, streamlining patient communication and reducing costs by replacing third-party integrations.
 - Managed teams of full time engineers in the development of a partner integration SDK, providing APIs and Azure Service Bus connections to our partner companies, resulting in a seamless experience for Patterson customers.
 - Pioneered a new development foundation by leading the adoption of a microservices architecture, modern CI/CD processes, and a micro-frontend framework, which dramatically improved development speed and set a model for broader organizational adoption.
-- Initiated a cultural shift towards focused meetings with clear agenda and active participation and away from large group meetings with static agendas and attendees passively listening.
+- Initiated a cultural shift towards focused meetings with clear agenda and active participation, moving the department away from large group meetings with static agendas and attendees passively listening.
 
 ### Engineering Manager
 **Code42** | *2021 - 2023*
 
-- Developed a comprehensive product development strategy to evolve our partner integration ecosystem. This allowed partners to easily interact with our products using RESTful APIs and Python client libraries.
+- Architected and drove a comprehensive product strategy that evolved our partner integration ecosystem, enabling seamless interaction via RESTful APIs and Python client libraries.
 - Successfully managed multiple scrum teams during a critical company split, supporting the transition from a profit-oriented business to a growth-oriented startup.
 - Provided expert guidance to the team in the development of REST API standards, steering them towards a low-maintenance approach to generating Open API Spec from Jersey and Spring code.
 - Redesigned an audit logging service, addressing maintenance and scalability issues. Reduced annual maintenance time by over 90%, saved more than 8 person-months per year, and sped up feature release cycles by removing inter-service dependencies.
@@ -48,21 +42,19 @@ chris@harleybrewing.com | 216-255-7179 | Minneapolis, MN | https://www.linkedin.
 *Team: Vitrea View and Vitrea Services Platform* | *2014 - 2017*
 
 - Led a high-performing team in the development of a browser-based medical imaging viewer, setting clear priorities, upholding design and quality standards, and ensuring timely project completion.
-- Initiated the transformation of engineering practices from component-focused teams to full-stack development teams, fostering improved cross-functional communication and collaboration.
-
+- Initiated the transformation of engineering practices from component-focused teams to full-stack development teams, fostering improved cross-functional communication and collaboration.<br><br>
 
 ### Senior Software Engineer
 **Canon Medical** (formerly Vital Images) | *2012 - 2014*
 
 - Architected and developed a high-performance RESTful web services application using Java and the Spring Framework, delivering a robust and scalable solution to meet complex business requirements.
 
-
 ### Senior Software Engineer
 **Medtronic** | *2009 - 2012*
 
 - Led a team of software engineers tasked with developing and maintaining a web application that gathers data from insulin pumps and glucose sensors to help patients and physicians make better therapy management decisions 
 
-### Senior Software Engineer
+### Software Engineer
 **Codonics** | *2002 - 2009*
 
 - Implemented HL7 and DICOM services in Java for Medical Imaging Printers, CD publishers, and Image Archives. 
@@ -77,9 +69,18 @@ chris@harleybrewing.com | 216-255-7179 | Minneapolis, MN | https://www.linkedin.
 
 ## SKILLS
 
-**Leadership and Management Skills:** Strategic Leadership, Team Building, Mentoring, Agile Methodologies, Process Improvement, Performance Management, Strategic Planning, Product Management, Project Management, Decision-Making, Change Management, Conflict Resolution, Resource Allocation, Budget Management, Risk Management, Vendor Management
+**Leadership:** Strategic Planning, Agile Methodologies, Process Improvement, Performance Management, Product Management, Project Management, Change Management, Vendor Management, Team Building & Mentoring, Budget & Resource Allocation, Risk Management
 
-**Technical Skills:** Java, Spring, Groovy, Gradle, Python, C++, DICOM, HL7, REST, Hibernate, SQL, HTML, CSS, JavaScript, Elasticsearch, Kibana, Logstash, Azure, AWS, Jira, Azure DevOps (Windows, Linux, MacOS)
+**Technical Stack:**
 
-**Communication and Collaboration Skills:** Excellent Verbal and Written Communication, Problem-Solving, Team Management, Collaboration
+* **Languages:** Java, Python, Groovy, C++
+* **Frameworks & Libraries:** Spring, Hibernate, REST, Angular
+* **Cloud & DevOps:** Azure, Docker, Containers, CI/CD, Microservices Architecture, Micro-frontend Architecture (MFE)
+* **Tools & Platforms:** Elasticsearch, Kibana, Logstash, Jira, Azure DevOps, LaunchDarkly, GitHub Flow
+* **Healthcare Standards:** DICOM, HL7, SaMD (Software as a Medical Device)
 
+**Managed Platforms & Technologies:**
+
+* **Mobile Platforms:** iOS, Android
+* **Cloud & Infrastructure:** Azure, AWS, ACA, AKS, ECS
+* **Development Frameworks:** .NET, React Native, Swift, Kotlin
