@@ -1,27 +1,28 @@
 # Chris Harley
+**Engineering Leader** | Senior Engineering Manager
 
-chris@harleybrewing.com | 216-255-7179 | Minneapolis, MN | https://www.linkedin.com/in/chris-harley/
+chris@harleybrewing.com | 216-255-7179 | Saint Paul, MN | https://www.linkedin.com/in/chris-harley/
 
-Experienced **Engineering Manager** with strong technical background and a demonstrated history in leading cross-functional teams and driving product development in multiple industries. Skilled in Agile Methodologies, Strategic Planning, and Software Architecture Design.
-
-## CAREER SUMMARY
-- Managed and mentored cross-functional scrum teams with up to 20 direct reports across diverse roles in the development of advanced visualization services for medical imaging.
-- Oversaw a $1.2M offshore QA contract, setting achievement targets and ensuring clear communication. Strategically transitioned the work back in-house due to identified performance issues.
-- Initiated the redesign of an audit logging service, achieving a 90% reduction in annual maintenance time, saving over 8 person-months, and accelerating feature releases by eliminating inter-service dependencies.
-- Developed a cloud-based observability platform using Elastic Cloud, enhancing monitoring for global on-prem applications, enabling proactive service and engagement.
-- Supported the company through an organizational split by transitioning key team members to new roles, ensuring the completion of ongoing projects, and minimizing disruption to operations.
+A results-driven Engineering Leader with a strong technical background and a proven record of success in regulated environments. I directed a $5M contract project to develop a patient relationship management application and led a service redesign that resulted in a 90% reduction in maintenance time. My expertise lies in defining engineering strategy, building high-performing teams, and modernizing development practices to deliver scalable solutions that drive tangible business results.
 
 ## PROFESSIONAL EXPERIENCE
+
+### Senior Software Engineering Manager
+**Patterson Dental** | *2023 - 2025*
+
+- Directed a 2-year, $5MM contract to develop a new patient relationship management (PRM) application for a cloud-based dental platform, streamlining patient communication and reducing costs by replacing third-party integrations.
+- Managed teams of full time engineers in the development of a partner integration SDK, providing APIs and Azure Service Bus connections to our partner companies, resulting in a seamless experience for Patterson customers.
+- Pioneered a new development foundation by leading the adoption of a microservices architecture, modern CI/CD processes, and a micro-frontend framework, which dramatically improved development speed and set a model for broader organizational adoption.
+- Initiated a cultural shift towards focused meetings with clear agenda and active participation, moving the department away from large group meetings with static agendas and attendees passively listening.
 
 ### Engineering Manager
 **Code42** | *2021 - 2023*
 
+- Architected and drove a comprehensive product strategy that evolved our partner integration ecosystem, enabling seamless interaction via RESTful APIs and Python client libraries.
 - Successfully managed multiple scrum teams during a critical company split, supporting the transition from a profit-oriented business to a growth-oriented startup.
 - Provided expert guidance to the team in the development of REST API standards, steering them towards a low-maintenance approach to generating Open API Spec from Jersey and Spring code.
 - Redesigned an audit logging service, addressing maintenance and scalability issues. Reduced annual maintenance time by over 90%, saved more than 8 person-months per year, and sped up feature release cycles by removing inter-service dependencies.
 - Implemented team status dashboards to enhance communication and coordination with product management and executive leadership, improving overall visibility and alignment
-- Developed a comprehensive product development strategy to evolve our partner integration ecosystem. This allowed partners to easily interact with our products using RESTful APIs and Python client libraries.
-
 
 ### Engineering Manager
 **Canon Medical** (formerly Vital Images) | *2014 - 2021*
@@ -41,30 +42,22 @@ Experienced **Engineering Manager** with strong technical background and a demon
 *Team: Vitrea View and Vitrea Services Platform* | *2014 - 2017*
 
 - Led a high-performing team in the development of a browser-based medical imaging viewer, setting clear priorities, upholding design and quality standards, and ensuring timely project completion.
-- Initiated the transformation of engineering practices from component-focused teams to full-stack development teams, fostering improved cross-functional communication and collaboration.
-
+- Initiated the transformation of engineering practices from component-focused teams to full-stack development teams, fostering improved cross-functional communication and collaboration.<br><br>
 
 ### Senior Software Engineer
 **Canon Medical** (formerly Vital Images) | *2012 - 2014*
 
 - Architected and developed a high-performance RESTful web services application using Java and the Spring Framework, delivering a robust and scalable solution to meet complex business requirements.
-- Collaborated with an offsite team member on a mission-critical project to enhance the core product with DICOM STOW functionality. Provided expert guidance, conducted comprehensive code reviews, and integrated the solution, elevating the product's capabilities.
-
 
 ### Senior Software Engineer
 **Medtronic** | *2009 - 2012*
 
-- Led a team of software engineers tasked with developing and maintaining a web application that gathers data from insulin pumps and glucose sensors to help patients and physicians make better therapy management decisions; responsibilities included assigning tasks, ensuring design and quality goals were met, and coordinating with other teams during project planning activities.
-- Drove decision to combine several implementations of device reading software used by multiple related products into a single implementation; significantly reduced cost of product and software updates and increased software reuse in new products
-
+- Led a team of software engineers tasked with developing and maintaining a web application that gathers data from insulin pumps and glucose sensors to help patients and physicians make better therapy management decisions 
 
 ### Software Engineer
 **Codonics** | *2002 - 2009*
 
-- Served as Software Co-op Program Supervisor; promoted company at local college campuses, interviewed and selected software engineering students for hire, and assigned/oversaw their projects.  This program received the Distinguished Employer Award from the Ohio Cooperative Education Association for the high quality of the co-op program
-- Designed a patient reporting interface with HL7 and DICOM connectivity that enables the system to provide multiple output formats including html, pdf, and rtf
-- Managed a project to expand capability, features and functionality of the core Horizon imaging product, creating an industry elite 51-inch film imaging solution
-
+- Implemented HL7 and DICOM services in Java for Medical Imaging Printers, CD publishers, and Image Archives. 
 
 ## EDUCATION AND AWARDS
 
@@ -76,9 +69,18 @@ Experienced **Engineering Manager** with strong technical background and a demon
 
 ## SKILLS
 
-**Leadership and Management Skills:** Strategic Leadership, Team Building, Mentoring, Agile Methodologies, Process Improvement, Performance Management, Strategic Planning, Product Management, Project Management, Decision-Making, Change Management, Conflict Resolution, Resource Allocation, Budget Management, Risk Management, Vendor Management
+**Leadership:** Strategic Planning, Agile Methodologies, Process Improvement, Performance Management, Product Management, Project Management, Change Management, Vendor Management, Team Building & Mentoring, Budget & Resource Allocation, Risk Management
 
-**Technical Skills:** Java, Spring, Groovy, Gradle, Python, C++, DICOM, HL7, REST, Hibernate, SQL, HTML, CSS, JavaScript, Elasticsearch, Kibana, Logstash, (Windows, Linux, MacOS)
+**Technical Stack:**
 
-**Communication and Collaboration Skills:** Excellent Verbal and Written Communication, Problem-Solving, Team Management, Collaboration
+* **Languages:** Java, Python, Groovy, C++
+* **Frameworks & Libraries:** Spring, Hibernate, REST, Angular
+* **Cloud & DevOps:** Azure, Docker, Containers, CI/CD, Microservices Architecture, Micro-frontend Architecture (MFE)
+* **Tools & Platforms:** Elasticsearch, Kibana, Logstash, Jira, Azure DevOps, LaunchDarkly, GitHub Flow
+* **Healthcare Standards:** DICOM, HL7, SaMD (Software as a Medical Device)
 
+**Managed Platforms & Technologies:**
+
+* **Mobile Platforms:** iOS, Android
+* **Cloud & Infrastructure:** Azure, AWS, ACA, AKS, ECS
+* **Development Frameworks:** .NET, React Native, Swift, Kotlin
