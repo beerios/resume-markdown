@@ -18,10 +18,10 @@ A results-driven Engineering Leader with a strong technical background and a pro
 ### Engineering Manager
 **Code42** | *2021 - 2023*
 
-- Architected and drove a comprehensive product strategy that evolved our partner integration ecosystem, enabling seamless interaction via RESTful APIs and Python client libraries.
 - Successfully managed multiple scrum teams during a critical company split, supporting the transition from a profit-oriented business to a growth-oriented startup.
-- Provided expert guidance to the team in the development of REST API standards, steering them towards a low-maintenance approach to generating Open API Spec from Jersey and Spring code.
 - Redesigned an audit logging service, addressing maintenance and scalability issues. Reduced annual maintenance time by over 90%, saved more than 8 person-months per year, and sped up feature release cycles by removing inter-service dependencies.
+- Architected and drove a comprehensive product strategy that evolved our partner integration ecosystem, enabling seamless interaction via RESTful APIs and Python client libraries.
+- Provided expert guidance to the team in the development of REST API standards, steering them towards a low-maintenance approach to generating Open API Spec from Jersey and Spring code.
 - Implemented team status dashboards to enhance communication and coordination with product management and executive leadership, improving overall visibility and alignment
 
 ### Engineering Manager
