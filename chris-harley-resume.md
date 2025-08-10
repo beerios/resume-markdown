@@ -3,7 +3,7 @@
 
 chris@harleybrewing.com | 216-255-7179 | Saint Paul, MN | https://www.linkedin.com/in/chris-harley/
 
-A results-driven Engineering Leader with a strong technical background and a proven record of success in regulated environments. I directed a $5M contract project to develop a patient relationship management application and led a service redesign that resulted in a 90% reduction in maintenance time. My expertise lies in defining engineering strategy, building high-performing teams, and modernizing development practices to deliver scalable solutions that drive tangible business results.
+A results-driven Engineering Leader with a strong technical background and a proven record of success in regulated environments. I directed a $5MM contract project to develop a patient relationship management application and led a service redesign that resulted in a 90% reduction in maintenance time. My expertise lies in defining engineering strategy, building high-performing teams, and modernizing development practices to deliver scalable solutions that drive tangible business results.
 
 ## PROFESSIONAL EXPERIENCE
 
