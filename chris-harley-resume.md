@@ -3,7 +3,7 @@
 
 chris@harleybrewing.com | 216-255-7179 | Saint Paul, MN | https://www.linkedin.com/in/chris-harley/
 
-A results-driven Engineering Leader with a strong technical background and a proven record of success in regulated environments. I directed a $5MM contract project to develop a patient relationship management application and led a service redesign that resulted in a 90% reduction in maintenance time. My expertise lies in defining engineering strategy, building high-performing teams, and modernizing development practices to deliver scalable solutions that drive tangible business results.
+A results-driven Engineering Leader with a strong technical background and a proven record of success in regulated environments. I directed a multi-million dollar project to develop a patient relationship management application and led a service redesign that resulted in a 90% reduction in maintenance time. My expertise lies in defining engineering strategy, building high-performing teams, and modernizing development practices to deliver scalable solutions that drive tangible business results.
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -83,7 +83,7 @@ implementation; significantly reduced cost of product and software updates and i
 
 * **Languages:** Java, Python, Groovy, C++
 * **Frameworks & Libraries:** Spring, Hibernate, REST, Angular
-* **Cloud & DevOps:** Azure, Docker, Containers, CI/CD, Microservices Architecture, Micro-frontend Architecture (MFE)
+* **Cloud & DevOps:** Azure, Docker, Containers, CI/CD, Microservices Architecture, Micro-frontend Architecture (MFE), Event Driven Architecture
 * **Tools & Platforms:** Elasticsearch, Kibana, Logstash, Jira, Azure DevOps, LaunchDarkly, GitHub Flow
 * **Healthcare Standards:** DICOM, HL7, SaMD (Software as a Medical Device)
 
